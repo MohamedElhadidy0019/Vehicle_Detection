@@ -7,7 +7,7 @@ Vehicle detection using image processing and classical machine learning
 - skimage version '0.18.1'
 - sklearn version '0.24.1'
 - numpy version '1.20.1'
-- cv2 version 
+- cv2 version '4.2.0'
 - matplotlib version '3.3.4'
 
 
