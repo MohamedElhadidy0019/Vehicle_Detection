@@ -33,7 +33,7 @@ This project loads the video of the road then subtracts the backround to get the
 
 
 - After removing background
-<img src="./screenshots/fore.png"  width="200" height="200" />
+<img src="./screenshots/fore.png"  width="300" height="300" />
 
 # Full output 
 
