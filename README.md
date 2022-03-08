@@ -33,9 +33,9 @@ This project loads the video of the road then subtracts the backround to get the
 
 
 - After removing background
-<img src="./screenshots/fore.png" alt="Parser Badge"/>
+<img src="./screenshots/fore.png" alt="Parser Badge"/ width="200" height="200">
 
-- Full output 
+# Full output 
 
 <img src="./screenshots/screen1.png" alt="Parser Badge"/>
 <img src="./screenshots/screen2.png" alt="Parser Badge"/>
