@@ -22,5 +22,5 @@ This project loads the video of the road then subtracts the backround to get the
 4. For feature extraction we used the Histogram of gradients HOG and SIFT as features and then flattened them and concatenated them into one feature vector for each image
 5. We fed the SVM model the feature vectors of the images and crossed our fingers it will learn well.
 6. That's the Classification report:  
-<img src="./screenshots/report.png" alt="Parser Badge" />
+<img src="./screenshots/report.png" alt="Parser Badge"  width="500" height="400"/>
  
