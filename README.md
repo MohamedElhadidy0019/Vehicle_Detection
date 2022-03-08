@@ -23,4 +23,22 @@ This project loads the video of the road then subtracts the backround to get the
 5. We fed the SVM model the feature vectors of the images and crossed our fingers it will learn well.
 6. That's the Classification report:  
 <img src="./screenshots/report.png" alt="Parser Badge"/>
+
+# Integration 
+1. Load the video and the pre trained model
+2. Use mixture of gaussians function from opencv MOG2 for background subtraction 
+3. The remaining will be the moving foreground objects.
+4. We use the SVM model on the controus of the foreground objects to know whether it is a vehicle or not.
+5. Put a bounding box on detected vehicle 
+
+
+- After removing background
+<img src="./screenshots/fore.png" alt="Parser Badge"/>
+
+- Full output 
+
+<img src="./screenshots/screen1.png" alt="Parser Badge"/>
+<img src="./screenshots/screen2.png" alt="Parser Badge"/>
+
+
  
