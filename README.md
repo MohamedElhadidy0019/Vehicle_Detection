@@ -41,4 +41,12 @@ This project loads the video of the road then subtracts the backround to get the
 <img src="./screenshots/screen2.png" alt="Parser Badge"/>
 
 
- 
+ ## Papers references
+1.Linear SVM Classifier Based HOG Car Detection
+2.Histograms of Oriented Gradients for Human Detection 
+3.Improved Adaptive Gaussian Mixture Model for Background Subtraction
+
+
+
+
+
