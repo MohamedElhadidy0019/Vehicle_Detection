@@ -1,5 +1,5 @@
 <h1 align="center">
-  Classical Computer Vision- Vehicle Detection
+  Classical Computer Vision  -  Vehicle Detection
 </h1>
  
 <p align="center">
